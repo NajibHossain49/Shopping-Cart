@@ -1,8 +1,22 @@
-# React + Vite
+# Shopping Cart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository contains a shopping cart application built using React, designed as a single-page application (SPA). The app allows users to browse products, add items to their cart, and manage their shopping experience seamlessly.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Product Listing:** Browse through a variety of products with detailed descriptions.
+- **Add to Cart:** Easily add items to the shopping cart with a simple click.
+- **Cart Management:** View, update, or remove items in the cart.
+- **Responsive Design:** Optimized for both desktop and mobile devices.
+- **State Management:** Efficient state management using React's Context API or Redux.
+- **Local Storage:** Persist cart data using local storage, so users can return to their selections.
+
+## Technologies Used
+
+- **React**
+- **React Router**
+- **Context API / Redux** (depending on implementation)
+- **CSS Modules / Styled Components**
+- **Local Storage API**
+
+# Live-Link: 
